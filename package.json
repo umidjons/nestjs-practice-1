@@ -8,5 +8,18 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@nestjs/common": "^4.1.1",
+    "@nestjs/core": "^4.1.1",
+    "@nestjs/microservices": "^4.1.0",
+    "@nestjs/websockets": "^4.1.0",
+    "reflect-metadata": "^0.1.10",
+    "rxjs": "^5.4.3",
+    "typescript": "^2.5.3"
+  },
+  "devDependencies": {
+    "@types/node": "^8.0.34",
+    "ts-node": "^3.3.0"
+  }
 }
